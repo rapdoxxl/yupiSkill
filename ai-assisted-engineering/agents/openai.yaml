@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Assisted Engineering"
+  short_description: "Build reliable AI-assisted software workflows"
+  default_prompt: "Use $ai-assisted-engineering to plan and implement an AI-assisted application feature with verification."
